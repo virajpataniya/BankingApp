@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/viraj/AndroidStudioProjects/BankingApp/app/src/main/res/drawable/rounded_button.xml" value="0.1" />
+        <entry key="..\:/Users/viraj/AndroidStudioProjects/BankingApp/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/viraj/AndroidStudioProjects/BankingApp/app/src/main/res/layout/activity_splash.xml" value="0.176" />
+        <entry key="..\:/Users/viraj/AndroidStudioProjects/BankingApp/app/src/main/res/layout/all_users.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/viraj/AndroidStudioProjects/BankingApp/app/src/main/res/layout/all_users_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/viraj/AndroidStudioProjects/BankingApp/app/src/main/res/layout/data_of_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/viraj/AndroidStudioProjects/BankingApp/app/src/main/res/layout/dialog_box.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/viraj/AndroidStudioProjects/BankingApp/app/src/main/res/layout/home_screen.xml" value="0.1828125" />
+        <entry key="..\:/Users/viraj/AndroidStudioProjects/BankingApp/app/src/main/res/layout/main_screen.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/viraj/AndroidStudioProjects/BankingApp/app/src/main/res/layout/send_to_other.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/viraj/AndroidStudioProjects/BankingApp/app/src/main/res/layout/send_to_user_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/viraj/AndroidStudioProjects/BankingApp/app/src/main/res/layout/transaction_history.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/viraj/AndroidStudioProjects/BankingApp/app/src/main/res/layout/transaction_history_item_xml.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/viraj/AndroidStudioProjects/BankingApp/app/src/main/res/layout/user_data.xml" value="0.15" />
+        <entry key="..\:/Users/viraj/AndroidStudioProjects/BankingApp/app/src/main/res/layout/users_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/viraj/AndroidStudioProjects/BankingApp/app/src/main/res/layout/users_list_item.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.35625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
